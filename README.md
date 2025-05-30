@@ -11,7 +11,7 @@ The management at Atliq Hardwares has noticed a lack of actionable insights for 
 
 ## 🎯 Task
 As an applicant for this role, the following tasks were completed to demonstrate SQL skills:
-[Go to the PDF folder](https://github.com/pragatiiagrawal/Consumer-Goods-Ad-Hoc-Insights/tree/main/some-subfolder)
+[Go to the PDF folder](https://github.com/pragatiiagrawal/Consumer-Goods-Ad-Hoc-Insights/blob/b92bee76d566ebd0285779326ff3aaa34799b93e/ad-hoc-requests.pdf)
 
 
 1. Review the [**ad-hoc-requests.pdf**](https://github.com/ashvini7823/Ad-Hoc-Insights/blob/cff24c78af8dad370f89f07ef19de11c3e0021e8/ad-hoc-requests.pdf) which contains 10 ad-hoc business questions requiring insights.
